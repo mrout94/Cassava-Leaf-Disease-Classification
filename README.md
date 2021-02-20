@@ -40,8 +40,9 @@ To account for those and for regularization of the model, the following augmenta
 
 ## Model Selection:-
 Most of the top ranking submissions used an ensemle of different models to get better scores.  
-But for me that approach might not work in real-life because it will introduce extra latency. So I decided to use a single model for submission and trying to optimize it's score.
-The models I tried and their scores are compiled below:
+But for me that approach might not work in real-life because it will introduce extra latency. And my goal from all these competitions is to gain practical experience that can be used in real life. So I decided to use a single model for submission and trying to optimize it's score.  
+  
+The models I tried and their scores are compiled below:  
 | Model | Score (LB) |
 | --- | ----------- |
 | Resnet50 | 0.78 |
