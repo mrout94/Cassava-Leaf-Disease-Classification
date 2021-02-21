@@ -52,7 +52,8 @@ The models I tried and their scores are compiled below:
 | NASNetLarge | 0.81 |
 | NASNetMobile | 0.76 |
 | EfficientNetB4 | 0.87 |
-| InceptionV3 | 0.89 |
+| InceptionV3 | 0.89 |  
+
 Thus I chose InceptionV3 as my final model.
 
 ## Training Details:-
